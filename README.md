@@ -36,8 +36,6 @@ O Notebook envia um caractere pela porta serial e o Arduino exibe o valor corres
 - Compile e envie o código para o Arduino Mega
 
 ### Python
-
-#### Windows
 ```bash
 python serialSend.py port baud
 ```
